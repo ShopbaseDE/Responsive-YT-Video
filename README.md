@@ -1,5 +1,6 @@
 # Responsive-YT-Video
 This JS script helps to make YouTube IFrames responsive.
+> For the functionality of this script JQuery is required.
 
 ## Usage
 ```html

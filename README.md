@@ -2,7 +2,7 @@
 This JS script helps to make YouTube IFrames responsive.
 > For the functionality of this script JQuery is required.
 
-## Usage
+## Usage HTML Attribute Script (JQuery Required)
 ```html
 <iframe src="..." ytv ytv-size="16:9"></iframe>
 ```
@@ -18,3 +18,8 @@ Video Sizes:
 > 4:3 (4/3)
 
 > 1:1 (1/1)
+
+## Usage JQuery Plugin
+```js
+$('iframe#your-youtube-iframe').rytv({size:'19:9'});
+```

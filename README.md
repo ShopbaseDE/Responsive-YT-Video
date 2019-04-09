@@ -23,4 +23,4 @@ Video Sizes:
 ```js
 $('iframe#your-youtube-iframe').rytv({size:'19:9'});
 ```
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WPDZYBK6E4ZAG&source=url)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q98R2QXXMTUF6&source=url)
